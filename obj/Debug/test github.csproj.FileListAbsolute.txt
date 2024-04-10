@@ -1,0 +1,9 @@
+c:\users\ezapiya\documents\visual studio 2015\Projects\test github\test github\bin\Debug\test github.exe.config
+c:\users\ezapiya\documents\visual studio 2015\Projects\test github\test github\bin\Debug\test github.exe
+c:\users\ezapiya\documents\visual studio 2015\Projects\test github\test github\bin\Debug\test github.pdb
+c:\users\ezapiya\documents\visual studio 2015\Projects\test github\test github\obj\Debug\test github.csprojResolveAssemblyReference.cache
+c:\users\ezapiya\documents\visual studio 2015\Projects\test github\test github\obj\Debug\test_github.Form1.resources
+c:\users\ezapiya\documents\visual studio 2015\Projects\test github\test github\obj\Debug\test_github.Properties.Resources.resources
+c:\users\ezapiya\documents\visual studio 2015\Projects\test github\test github\obj\Debug\test github.csproj.GenerateResource.Cache
+c:\users\ezapiya\documents\visual studio 2015\Projects\test github\test github\obj\Debug\test github.exe
+c:\users\ezapiya\documents\visual studio 2015\Projects\test github\test github\obj\Debug\test github.pdb
